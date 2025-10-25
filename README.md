@@ -1,5 +1,9 @@
 # Astro Starter Kit: Basics
 
+
+## Inspired by Midudev, https://www.youtube.com/@midudev
+
+
 ```sh
 npm create astro@latest -- --template basics
 ```
